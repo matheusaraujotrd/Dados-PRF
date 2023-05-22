@@ -17,3 +17,5 @@ Em desenvolvimento.
 Esses são estudos de caso feitos como projeto pessoal e realizados completamente do zero, sem relação direta com a disciplina de estatística
 
 ### 01 - Brazillian Fast Food Chain
+
+  Um estudo de caso em que analiso os dados da equipe legal de uma rede de fast food com o objetivo de otimizar o tempo de produção.
