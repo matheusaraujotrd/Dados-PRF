@@ -1,5 +1,5 @@
 # Projetos-Data-Science
-Repositório com projetos de ciência de dados realizados para a disciplina Estatística Aplicada à Computação
+Repositório com projetos de ciência de dados realizados para a disciplina Estatística Aplicada à Computação e outros estudos de caso.
 
 ## Projetos
 
@@ -11,3 +11,11 @@ Repositório com projetos de ciência de dados realizados para a disciplina Esta
   
 ### 03 - Projeto Datacamp 02 - Jogos ###
 Em desenvolvimento.
+
+## Estudos de caso
+
+Esses são estudos de caso feitos como projeto pessoal e realizados completamente do zero, sem relação direta com a disciplina de estatística
+
+### 01 - Brazillian Fast Food Chain
+
+  Um estudo de caso em que analiso os dados da equipe legal de uma rede de fast food com o objetivo de otimizar o tempo de produção. Estudo de caso feito como parte da minha primeira submissão para o exame prático como analista de dados do DataCamp. O original continha alguns erros, então peguei o documento e o aprimorei.
