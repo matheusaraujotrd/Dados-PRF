@@ -18,4 +18,4 @@ Esses são estudos de caso feitos como projeto pessoal e realizados completament
 
 ### 01 - Brazillian Fast Food Chain
 
-  Um estudo de caso em que analiso os dados da equipe legal de uma rede de fast food com o objetivo de otimizar o tempo de produção.
+  Um estudo de caso em que analiso os dados da equipe legal de uma rede de fast food com o objetivo de otimizar o tempo de produção. Estudo de caso feito como parte da minha primeira submissão para o exame prático como analista de dados do DataCamp. O original continha alguns erros, então peguei o documento e o aprimorei.
