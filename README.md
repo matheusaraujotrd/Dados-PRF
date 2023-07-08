@@ -1,21 +1,13 @@
 # Projetos-Data-Science
-Repositório com projetos de ciência de dados realizados para a disciplina Estatística Aplicada à Computação e outros estudos de caso.
+Este repositório foi feito, inicialmente, para salvar os projetos de análise de dados 
+realizados para a disciplina Estatística Aplicada à Computação no IFPB.
 
-## Projetos
+Com o tempo — e com o aumento do meu portfólio — decidi manter aqui apenas um dos projetos, 
+referentes a uma extração e análise exploratória de dados (EDA) da PRF.
 
-### 01 - Dados da PRF (Polícia Rodoviária Federal) ###
-  Esse foi o primeiro projeto realizado para a disciplina e, na verdade, foi um primeiro teste de manipulação de dados com Pandas e como obter informações básicas de um conjunto de dados.
-  
-### 02 - Projeto Datacamp 01 - Empresa ###
-  Segundo projeto realizado na disciplina. A ideia aqui é trabalhar com a criação de um conjunto de dados a partir de dados espalhados em diferentes arquivos e formatos.
-  
-### 03 - Projeto Datacamp 02 - Jogos ###
-Em desenvolvimento.
+A análise exploratória é simples e não vai muito além de obter algumas estatísticas de resumo sobre os dados. 
+Acredito que o grande valor desse projeto, na verdade, seja
+mostrar a habilidade de extrair dados do mundo real e trabalhar em cima deles.
 
-## Estudos de caso
-
-Esses são estudos de caso feitos como projeto pessoal e realizados completamente do zero, sem relação direta com a disciplina de estatística
-
-### 01 - Brazillian Fast Food Chain
-
-  Um estudo de caso em que analiso os dados da equipe legal de uma rede de fast food com o objetivo de otimizar o tempo de produção. Estudo de caso feito como parte da minha primeira submissão para o exame prático como analista de dados do DataCamp. O original continha alguns erros, então peguei o documento e o aprimorei.
+Os dados foram salvos em uma pasta zipada dentro de um link do Google Drive, então foi feito todo um trabalho 
+para extrair os dados de maneira apropriada e sem causar nenhum tipo de distorção.
